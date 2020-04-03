@@ -1,3 +1,13 @@
-Test
-test2
-Test3
+Hi nagao_yo_atm!
+
+The Administrator created an account for you. Now you are a member of the company GitLab application.
+
+login.......................................... nagao_yo@atmarksol.jp
+
+Click here to set your password
+
+This link is valid for 2 days. After it expires, you can request a new one.
+
+— 
+View it on GitLab. 
+You're receiving this email because of your account on i-studio.commits.jp. If you'd like to receive fewer emails, you can adjust your notification settings.
